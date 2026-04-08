@@ -1,5 +1,7 @@
 # Obsidian-Guide
+
 关于Obsidian的使用教程
+Obsidian多设备同步配置教程
 
 ## 多设备同步
 
